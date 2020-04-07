@@ -1,0 +1,23 @@
+{
+  "name": "studentregistraion",
+  "version": "0.0.0",
+  "description": "SignIn\nSignUp\nDashboard",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "devDependencies": {
+    "babel-preset-expo": "^7.0.0"
+  },
+  "dependencies": {
+    "expo": "^37.0.0",
+    "react": "16.9.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.0.tar.gz",
+    "react-navigation": "latest",
+    "react-native-paper": "3.6.0",
+    "react-native-screens": "^2.0.0",
+    "react-navigation-stack": "latest",
+    "react-native-form-validator": "latest",
+    "react-native-safe-area-context": "0.6.0",
+    "@react-native-community/masked-view": "0.1.1"
+  }
+}
